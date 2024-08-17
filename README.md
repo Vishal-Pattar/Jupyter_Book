@@ -1,7 +1,7 @@
 # Into the World of AI
 
 ## Colab Template
-[Colab Book](https://colab.research.google.com/drive/1ueQIWBL8vYJqmBfeSBs8RXtkFyk9PcZa/copy)
+[Colab Book](https://colab.research.google.com/drive/1rHppsduyJHbfpphZWo7K83nLww8JMSV3?usp=sharing)
 
 ## Requirements
 - Python
